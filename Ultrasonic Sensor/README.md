@@ -8,5 +8,7 @@ To connect an ultrasonic sensor to a Raspberry Pi, you'll typically use GPIO (Ge
 
 ## Working Principle
 **Triggering the Sensor:** The Trig pin is used to trigger the ultrasonic burst. You send a short pulse to this pin to start the measurement process.
+
 **Receiving the Signal:** The Echo pin receives the ultrasonic signal after it bounces back from an object. By measuring the time between sending the trigger pulse and receiving the echo signal, you can calculate the distance.
+
 **Calculating Distance:** The distance can be calculated using the formula: Distance = Speed of Sound * Time / 2, where the speed of sound is approximately 343 meters per second.
