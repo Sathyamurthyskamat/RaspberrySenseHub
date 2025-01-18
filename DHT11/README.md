@@ -1,6 +1,6 @@
 # DHT11 with Raspberry Pi
 
-## DHT11Overview
+## DHT11 Overview
 
 The DHT11 is a highly popular sensor designed for measuring temperature and humidity. It is cost-effective and provides reliable, accurate readings, making it an excellent choice for various environmental monitoring applications. The sensor features an onboard chip that converts analog signals into digital output, simplifying integration with microcontrollers and single-board computers like the Raspberry Pi.
 
@@ -45,3 +45,10 @@ To communicate with the DHT11, we will use the `Adafruit_DHT` Python library, wh
 2. Install the `Adafruit_DHT` library by running:
    ```bash
    pip install Adafruit_DHT
+
+### Running the Script:
+Navigate to the directory containing dht11_sensor.py.
+Execute the script using:
+```bash
+   python dht11_sensor.py
+```
