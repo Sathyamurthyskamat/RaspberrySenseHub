@@ -42,10 +42,14 @@ To communicate with the DHT11, we will use the `Adafruit_DHT` Python library, wh
 
 ### Setting Up the Environment:
 1. Ensure Python is installed on your Raspberry Pi.
-2. Install the `Adafruit_DHT` library by running:
-   ```bash
+2. Download the clon from git ``
+```bash
+   git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+```
+3. Install the `Adafruit_DHT` library by running:
+```bash
    pip install Adafruit_DHT
-
+```
 ### Running the Script:
 Navigate to the directory containing dht11_sensor.py.
 Execute the script using:
