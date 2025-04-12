@@ -40,6 +40,3 @@ GitHub hosts a plethora of Raspberry Pi projects and libraries. You can find cod
 
 ## Conclusion
 Raspberry Pi opens doors to endless possibilities in electronics and programming. Whether you're a beginner learning the basics or an experienced developer pushing the boundaries of innovation, Raspberry Pi offers a playground for creativity and exploration. Start your journey today and unleash the power of this miniature marvel!
-
-# Raspberry$
-#git clone https://github.com/adafruit/Adafruit_Python_DHT.git
